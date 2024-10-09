@@ -1,0 +1,1 @@
+Goal: Understand fundamental CSS concepts such as selectors, colors, margins, and paddings.
