@@ -1,1 +1,1 @@
-
+Goal: Learn how to use CSS Flexbox to create responsive and flexible layouts.
