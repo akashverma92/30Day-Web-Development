@@ -1,0 +1,32 @@
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+}
+h1 {
+    font-size: 3em;
+    color: #333;
+    text-align: center;
+    font-weight: bold;
+}
+h2 {
+    font-size: 2em;
+    color: #666;
+    margin-bottom: 10px;
+}
+p {
+    font-size: 1.2em;
+    color: #555;
+    margin-bottom: 20px;
+}
+.highlight {
+    font-weight: bold;
+    font-style: italic;
+    color: #ff4500;
+}
+
+footer {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 1em;
+    color: #aaa;
+}
