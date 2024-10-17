@@ -1,1 +1,1 @@
-
+Goal: Understand how to create complex grid layouts using CSS Grid.
