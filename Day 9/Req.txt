@@ -1,1 +1,1 @@
-
+Goal: Learn how to apply animations and transitions to enhance web interactions.

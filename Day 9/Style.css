@@ -1,0 +1,14 @@
+.animate-box {
+    background-color: #2ecc71;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    width: 200px;
+    margin: 50px auto;
+    transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+.animate-box:hover {
+    transform: scale(1.2);
+    background-color: #1abc9c;
+}
