@@ -1,0 +1,1 @@
+Goal: Implement responsive design using CSS media queries to adapt to different screen sizes.
