@@ -1,0 +1,1 @@
+Goal: Build a fully responsive website for a fictional business using everything learned so far.
