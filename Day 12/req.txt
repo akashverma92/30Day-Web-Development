@@ -1,0 +1,1 @@
+Goal: Understand how to use functions, loops, and conditionals in JavaScript to build logic.
