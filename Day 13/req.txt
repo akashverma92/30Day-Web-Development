@@ -1,0 +1,1 @@
+Goal: Understand the basics of arrays, how to create them, and basic array methods.
