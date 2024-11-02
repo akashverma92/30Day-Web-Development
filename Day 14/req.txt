@@ -1,0 +1,1 @@
+Goal : Explore advanced array methods and iterating techniques.
