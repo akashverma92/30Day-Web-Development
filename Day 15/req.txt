@@ -1,0 +1,1 @@
+Goal: Understand the structure of objects, creating objects, and accessing properties.
