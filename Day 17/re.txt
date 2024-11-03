@@ -1,0 +1,1 @@
+Goal: Work with arrays of objects and learn how to iterate through them.
