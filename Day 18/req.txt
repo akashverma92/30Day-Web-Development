@@ -1,0 +1,1 @@
+Goal: Learn modern JavaScript features like destructuring and the spread operator for working with arrays and objects.
